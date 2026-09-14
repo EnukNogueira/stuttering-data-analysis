@@ -79,8 +79,8 @@ stuttering-data-analysis/
 ### 2. Tratamento dos dados
 
 * [ ] Padronização dos nomes e tipos das colunas
-* [ ] Tratamento de valores ausentes
-* [ ] Identificação de registros duplicados
+* [x] Tratamento de valores ausentes (não possui)
+* [x] Identificação de registros duplicados (não possui)
 * [ ] Validação das relações entre episódios, falas e labels
 * [ ] Criação da base final para análise
 * [ ] Documentação das decisões de tratamento
@@ -110,8 +110,8 @@ stuttering-data-analysis/
 
 ### 5. Power BI
 
-* [ ] Importar os dados tratados
-* [ ] Modelar os dados
+* [x] Importar os dados tratados
+* [x] Modelar os dados
 * [ ] Criar relacionamentos
 * [ ] Criar medidas e indicadores
 * [ ] Criar análise da distribuição dos eventos
